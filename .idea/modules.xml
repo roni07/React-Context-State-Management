@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/state-management.iml" filepath="$PROJECT_DIR$/.idea/state-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-context-state-management/.idea/react-context-state-management.iml" filepath="$PROJECT_DIR$/../react-context-state-management/.idea/react-context-state-management.iml" />
     </modules>
   </component>
 </project>
